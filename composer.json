@@ -1,0 +1,23 @@
+{
+    "name": "firmin/php_sms",
+    "description": "easily send sms to phone numbers with your php application",
+    "type": "library",
+    "require": {
+        "mashape/unirest-php": "3.*",
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "firmin",
+            "email": "firminapp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Smsphp\\": "src/"}
+      },
+      "support": {
+        "email": "firminapp@gmail.com",
+        "link":"https://sms.coursesroom.com"
+      }
+}
