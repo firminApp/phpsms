@@ -2,6 +2,9 @@
     "name": "firmin/php_sms",
     "description": "easily send sms to phone numbers with your php application",
     "type": "library",
+    "keywords": ["rest", "curl", "http", "https", "client"],
+    "homepage": "https://github.com/firminApp/smsphp",
+    "license": "MIT",
     "require": {
         "mashape/unirest-php": "3.*",
         "php": ">=5.3.0"
